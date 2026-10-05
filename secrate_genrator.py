@@ -69,6 +69,6 @@ def main():
 # Start the program
 main()
 
-# Never share generaated keys publically
+# Never share generaated keys publically 
 print("Disclaimer - Do not show your key in public")
 
